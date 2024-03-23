@@ -27,10 +27,9 @@ pluma.end_fill()
 pluma.penup()
 pluma.goto(0,-80)
 pluma.color("black")
-pluma.write("Sigueme para mas videos -Aicrag Code Wise",align="center",font=(
+pluma.write("Te Quiero",align="center",font=(
     "Arial",20,"bold"))
 
 #Mostramos la ventana
 ventana.mainloop()
-
 
